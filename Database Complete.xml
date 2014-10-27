@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="example2.xsl"?>
+<repatiore>
+		<song>
+			<songtitle>Gema</songtitle>
+			<genre>Bolero</genre>
+			<transcribed> Guicho Cisneros</transcribed>
+			<keysignature>G Major</keysignature>
+			<timesignature>4/4</timesignature>
+			<acceptable_events>
+				<event>Quinceneras</event>
+				<event>Weddings</event>	
+				<event>Birthdays</event>
+				<event>Funerals</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>La Negra </songtitle>
+			<genre>Son</genre>
+			<transcribed> DC </transcribed>
+			<keysignature>G major F Major</keysignature>
+			<timesignature>3/4 </timesignature>
+			<acceptable_events>
+				<event>Quinceneras</event>
+				<event>Weddings</event>
+				<event>Birthdays</event>
+				<event>Celebrations</event>
+			</acceptable_events>	
+		</song>
+		<song>
+			<songtitle>El Rey</songtitle>
+			<genre>Ranchera Valseada</genre>
+			<transcribed>DC</transcribed>
+			<keysignature>F Major</keysignature>
+			<timesignature>3/4</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Weddings</event>
+				<event>Birthdays</event>
+				<event>Celebrations</event>	
+			</acceptable_events>	
+		</song>
+		<song>
+			<songtitle>La Malaguena</songtitle>	
+			<genre>Huapango</genre>
+			<transcribed>Vargas</transcribed>
+			<keysignature>E Minor</keysignature>
+			<timesignature>3/4 </timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Weddings</event>
+				<event>Birthdays</event>
+				<event>Celebrations</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Por Fin </songtitle>
+			<genre>Bolero Ranchera</genre>
+			<transcribed> JBO</transcribed>
+			<keysignature>G Major</keysignature>
+			<timesignature> 4/4 </timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Weddings</event>
+				<event>Birthday</event>
+				<event>Celebrations</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle> Espana Cani</songtitle>
+			<genre>Paso Doble </genre>
+			<transcribed>Pascual Marquina</transcribed>
+			<keysignature> G Major/E Minor</keysignature>
+			<timesignature> 2/4 </timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Weddings</event>
+				<event>Birthday </event>
+				<event>Celebrations</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>No Volvere </songtitle>
+			<genre> Ranchera Valseada </genre>
+			<transcribed> JBO </transcribed>
+			<keysignature> D Major </keysignature>
+			<timesignature> 3/4 </timesignature>
+			<acceptable_events>
+				<event>Birthday</event>
+				<event>Celebrations</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Carino</songtitle>
+			<genre> Bolero Ranchera</genre>
+			<transcribed>JBO</transcribed>
+			<keysignature> G Major</keysignature>
+			<timesignature> 4/4</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Birthday</event>
+				<event>Weddings</event>
+				<event>Celebrations</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Tu Solo Tu </songtitle>
+			<genre> Ranchera Valseada </genre>
+			<transcribed> JBO</transcribed>
+			<keysignature>G Major</keysignature>
+			<timesignature>3/4</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Birthday</event>
+				<event>Weddings</event>
+				<event>Celebrations</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>El Buey</songtitle>
+			<genre>Danza</genre>
+			<transcribed>JBO</transcribed>
+			<keysignature>D Major</keysignature>
+			<timesignature> 2/4</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Birthday</event>
+				<event>Weddings</event>
+				<event>Celebrations</event>
+				<event>Cultural Holiday</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Amor Eterno</songtitle>
+			<genre>Bolero</genre>
+			<transcribed>Jaime Vela</transcribed>
+			<keysignature>G Major</keysignature>
+			<timesignature> 4/4</timesignature>
+			<acceptable_events>
+				<event>Funerals</event>
+				<event>As Requested</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>La Bikina</songtitle>
+			<genre> Jaropo Ranchera</genre>
+			<transcribed> JBO</transcribed>
+			<keysignature>G Major</keysignature>
+			<timesignature>3/4</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Birthday</event>
+				<event>Weddings</event>
+				<event>Celebrations</event>
+				<event>Cultural Holidays</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Volver Volver</songtitle>
+			<genre> Ranchera Lenta</genre>
+			<transcribed>JBO</transcribed>
+			<keysignature>A Major</keysignature>
+			<timesignature>4/4</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Birthday</event>
+				<event>Celebrations</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>El Carretero</songtitle>
+			<genre>Son Jalisciense</genre>
+			<transcribed>JBO</transcribed>
+			<keysignature>G Major</keysignature>
+			<timesignature>3/4</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Birthday</event>
+				<event>Weddings</event>
+				<event>Celebrations</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Jarocho I</songtitle>
+			<genre>Popurri Jarocho</genre>
+			<transcribed>Jesus Chuy Guzman</transcribed>
+			<keysignature>
+				<part>El Jarabe Loco Key of D Major</part>
+				<part>El Siquisiri Key of C Natural</part>
+				<part>El Querreque Key of D Major</part>
+				<part>El Cascabel Key of A minor</part>
+			</keysignature>
+			<timesignature>
+				<part>El Jarabe Loco 3/4 </part>
+				<part>El Siquisiri 4/4 </part>
+				<part>El Querreque 4/4 </part>
+				<part>El Cascabel 4/4 </part>
+			</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Birthdays</event>
+				<event>Weddings</event>
+				<event>Celebrations</event>
+				<event>Competitions</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>El Becerro</songtitle>
+			<genre> Son </genre>
+			<transcribed> William Faulkner</transcribed>
+			<keysignature>D minor</keysignature>
+			<timesignature> 3/4</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Birthdays</event>
+				<event>Wedding</event>
+				<event>Celebrations</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Una Chiquilla Soy</songtitle>
+			<genre> Bolero Ranchera</genre>
+			<transcribed>Humberto Estrada</transcribed>
+			<keysignature>D minor</keysignature>
+			<timesignature>4/4</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Birthdays</event>
+				<event>Celebrations</event>
+				<event>Competitions</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Los Pollitos</songtitle>
+			<genre>Popurri Jarocho</genre>
+			<transcribed>Jesus Chuy Guzman</transcribed>
+			<keysignature>
+				<part>El Pollito Key of D Minor</part>
+				<part>Ay Namanama Key of C</part>
+				<part>El Cascabel Key of A minor</part>
+			</keysignature>
+			<timesignature>
+				<part>El Pollito 6/8</part>
+				<part>Ay Namanama 6/8</part>
+				<part>El Cascabel 6/8</part>
+			</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Weddings</event>
+				<event>Birthdays</event>
+				<event>Celebrations</event>
+				<event>Competitions</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Las Alazanes</songtitle>
+			<genre>Son Jalisciense</genre>
+			<transcribed>GRM</transcribed>
+			<keysignature> G Major</keysignature>
+			<timesignature> 3/4</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Birthdays</event>
+				<event>Wedding</event>
+				<event>Celebrations</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>El Siquisiri</songtitle>
+			<genre> Sone Veracruzano</genre>
+			<transcribed>Jesus Chuy Guzman</transcribed>
+			<keysignature>C Major</keysignature>
+			<timesignature>3/4</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Birthdays</event>
+				<event>Weddings</event>
+				<event>Celebrations</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>El Caporal</songtitle>
+			<genre> Sone Veracruzano</genre>
+			<transcribed>Tenampa</transcribed>
+			<keysignature>A Major</keysignature>
+			<timesignature> 3/4</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Birthdays</event>
+				<event>Weddings</event>
+				<event>Celebrations</event>
+				<event>Competitions</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>El Gavilancillo</songtitle>
+			<genre>Son Jalisciense</genre>
+			<transcribed>DC</transcribed>
+			<keysignature>E Major</keysignature>
+			<timesignature> 3/4</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Birthdays</event>
+				<event>Weddings</event>
+				<event>Celebrations</event>
+				<event>Competitions</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>La Fiesta Del Mariachi</songtitle>
+			<genre>Song</genre>
+			<transcribed>GRM</transcribed>
+			<keysignature> C Major</keysignature>
+			<timesignature> 3/4</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Birthdays</event>
+				<event>Weddings</event>
+				<event>Celebrations</event>
+				<event>Competitions</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>El Coco Loco</songtitle>
+			<genre>Son</genre>
+			<transcribed>GRM</transcribed>
+			<keysignature>C Major</keysignature>
+			<timesignature>3/4</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Birthdays</event>
+				<event>Weddings</event>
+				<event>Celebrations</event>
+				<event>Competitions</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Popurri Aida Cuevas</songtitle>
+			<genre>Popurri</genre>
+			<transcribed> Vargas </transcribed>
+			<keysignature>
+				<part>Te Va a Quedar Con Las Ganas Key of C Major</part>
+				<part>Yo Creo Que Es El Tiempo Key of E Major </part>
+				<part>Que Buena Suerte Key of D Minor</part>
+				<part>Te Doy Las Gracias Key of E Major </part>
+			</keysignature>
+			<timesignature>
+				<part>Te Va a Quedar Con Las Ganas 3/4 </part>
+				<part>Yo Creo Que Es El Tiempo 2/4 </part>
+				<part>Que Buena Suerte 4/4 </part>
+				<part>Te Doy Las Gracias 3/4 </part>
+			</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Birthdays</event>
+				<event>Weddings</event>
+				<event>Celebrations</event>
+				<event>Competitions</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle> Fallaste Corazon </songtitle>
+			<genre> Ranchera Lenta</genre>
+			<transcribed> Cuco Sanchez </transcribed>
+			<keysignature>Key of D Major</keysignature>
+			<timesignature>4/4</timesignature>
+			<acceptable_events>
+				<event>Birthdays</event>
+				<event>Weddings</event>
+				<event>Celebrations</event>
+				<event>As Requested</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Danza De Los Viejitos</songtitle>
+			<genre>Son Michoacan</genre>
+			<transcribed>GRM</transcribed>
+			<keysignature>Key of D Major</keysignature>
+			<timesignature> Varied </timesignature>
+			<acceptable_events>
+				<event>Celebrations</event>
+				<event>Cultural Holidays</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Mi Llano Grande </songtitle>
+			<genre> Son Jalisciense</genre>
+			<transcribed>GRM</transcribed>
+			<keysignature>Key of D Major</keysignature>
+			<timesignature> 3/4</timesignature>
+			<acceptable_events>
+				<event>Birthdays</event>
+				<event>Celebrations</event>
+				<event>Weddings</event>
+				<event>As requested</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>El Rey de la Huasteca</songtitle>
+			<genre> Huapango Huasteco</genre>
+			<transcribed> Jose Hernandez</transcribed>
+			<keysignature>Key of D Minor </keysignature>
+			<timesignature>3/4</timesignature>
+			<acceptable_events>
+				<event>Birthdays</event>
+				<event>Celebrations</event>
+				<event>Competitions</event>
+				<event>As requested</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Popurri Huapangos Huastecos</songtitle>
+			<genre> Popurri </genre>
+			<transcribed> Jose Martinez Barajas</transcribed>
+			<keysignature>
+				<part> Las Tres Huastecas Key of A Major </part>
+				<part>Soldado de Levita Key of G Major</part>
+				<part> La Cecilia Key of G Major</part>
+			</keysignature>
+			<timesignature>
+				<part> Las Tres Huastecas 3/4</part>
+				<part>Soldado de Levita 3/4</part>
+				<part> La Cecilia 3/4</part>
+			</timesignature>
+			<acceptable_events>
+				<event> Celebrations</event>
+				<event> Birthdays</event>
+				<event>Competitions</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Mi Bella Preciousa</songtitle>
+			<genre> Joropo</genre>
+			<transcribed> Miguel Guzman</transcribed>
+			<keysignature>Key of C </keysignature>
+			<timesignature> 3/4</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Weddings</event>
+				<event>Birthdays</event>
+				<event>Celebrations</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>El Mariachi Loco</songtitle>
+			<genre>Danza</genre>
+			<transcribed> DC</transcribed>
+			<keysignature> Key of G Major</keysignature>
+			<timesignature>3/4</timesignature>
+			<acceptable_events>
+				<event>Quincenera</event>
+				<event>Birthdays</event>
+				<event>Weddings</event>
+				<event>Celebrations</event>
+				<event>Cultural Holidays</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Los Cuatro Gallos</songtitle>
+			<genre>Varied</genre>
+			<transcribed>GRM</transcribed>
+			<keysignature> Key of G Major</keysignature>
+			<timesignature> 3/4</timesignature>
+			<acceptable_events>
+				<event>Quinceneras</event>
+				<event>Birthdays</event>
+				<event>Weddings</event>
+				<event>Celebrations</event>
+				<event>Competitions</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Las Chiapanecas</songtitle>
+			<transcribed>DC</transcribed>
+			<genre> Ranchera Valseada</genre>
+			<keysignature>Key of D Major</keysignature>
+			<timesignature>3/4</timesignature>
+			<acceptable_events>	
+				<event>Quinceneras</event>
+				<event>Birthdays</event>
+				<event>Weddings</event>
+				<event>Celebrations</event>
+				<event>Cultural Holidays</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>La Basurita</songtitle>
+			<genre> Polka</genre>
+			<transcribed>GRM</transcribed>
+			<keysignature> Key of A Major</keysignature>
+			<timesignature>2/4</timesignature>
+			<acceptable_events>
+				<event>Quinceneras</event>
+				<event>Birthdays</event>
+				<event>Weddings</event>
+				<event>Celebrations</event>
+			</acceptable_events>
+		<song>
+			<songtitle> La Charreada</songtitle>
+			<genre>Joropo</genre>
+			<transcribed>DC</transcribed>
+			<keysignature>Key of A Major</keysignature>
+			<timesignature> 3/4</timesignature>
+			<acceptable_events>
+				<event>Quinceneras</event>
+				<event>Birthdays</event>
+				<event>Celebrations</event>
+				<event>Cultural Holidays</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Mi Linda Esposa</songtitle>
+			<genre> Bolero</genre>
+			<transcribed>Miguel Guzman</transcribed>
+			<keysignature>Key of F</keysignature>
+			<timesignature>4/4</timesignature>
+			<acceptable_events>
+				<event>Birthdays</event>
+				<event>Weddings</event>
+				<event>Celebrations</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Anunciamos Tu Muerte</songtitle>
+			<genre>Canciones de Misa</genre>
+			<transcribed>JBO</transcribed>
+			<keysignature>Key of C Major</keysignature>
+			<timesignature>4/4</timesignature>
+			<acceptable_events>
+				<event>Mass</event>
+				<event>Religious Holidays</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Alleluya</songtitle>
+			<genre>Canciones de Misa</genre>
+			<transcribed>JBO</transcribed>
+			<keysignature>Key of C Major</keysignature>
+			<timesignature>4/4</timesignature>
+			<acceptable_events>
+				<event>Mass</event>
+				<event> Religious Holidays</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Motivos</songtitle>
+			<genre>Bolero Ranchera</genre>
+			<transcribed>DC</transcribed>
+			<keysignature>Key of C Major</keysignature>
+			<timesignature>4/4</timesignature>
+			<acceptable_events>
+				<event>Quinceneras</event>
+				<event>Birthdays</event>
+				<event>Weddings</event>
+				<event>Cultural Holidays</event>
+				<event>Celebrations</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Hermoso Carino</songtitle>
+			<genre> Ranchera Valseada</genre>
+			<transcribed>DC</transcribed>
+			<keysignature>Key of C</keysignature>
+			<timesignature>3/4</timesignature>
+			<acceptable_events>
+				<event>Quinceneras</event>
+				<event>Birthdays</event>
+				<event>Weddings</event>
+				<event>Celebrations</event>
+			</acceptable_events>
+		</song>
+		<song>
+			<songtitle>Las Coronelas</songtitle>
+			<genre>Polka</genre>
+			<transcribed>JBO</transcribed>
+			<keysignature>Key of A Major</keysignature>
+			<timesignature>2/4</timesignature>
+			<acceptable_events>
+				<event>Birthdays</event>
+				<event>Celebrations</event>
+				<event>Cultural Holidays</event>
+			</acceptable_events>
+		</song>
+		<song>
+				<songtitle>El Jarabe Tapatio</songtitle>
+				<genre> Baile Regional</genre>
+				<transcribed>DC</transcribed>
+				<keysignature>Key of D Major</keysignature>
+				<timesignature>6/8</timesignature>
+				<acceptable_events>
+					<event>Celebrations</event>
+					<event>Cultural Holidays</event>
+				</acceptable_events>
+			</song>
+			<song>
+				<songtitle>Las Golodrinas</songtitle>
+				<genre>Ranchera Valseada</genre>
+				<transcribed> JBO</transcribed>
+				<keysignature>Key of D Major</keysignature>
+				<timesignature>4/4</timesignature>
+				<acceptable_events>
+					<event>Funerals</event>
+					<event>As Requested</event>
+				</acceptable_events>
+			</song>
+			<song>
+				<songtitle>Abre El Corazon</songtitle>
+				<genre>Polka</genre>
+				<transcribed>JBO</transcribed>
+				<keysignature>Key of A Major</keysignature>
+				<timesignature>2/4</timesignature>
+				<acceptable_events>
+					<event>Birthdays</event>
+					<event>Weddings</event>
+					<event>Celebrations</event>
+				</acceptable_events>
+			</song>
+			<song>
+				<songtitle>Te Quise Olvidar</songtitle>
+				<genre>Ranchera Lenta</genre>
+				<transcribed>By Rote</transcribed>
+				<keysignature>Key of D Major</keysignature>
+				<timesignature>3/4</timesignature>
+				<acceptable_events>
+					<event>Celebrations</event>
+					<event>As Requested</event>
+				</acceptable_events>
+			</song>
+	</song>
+		
+</repatiore>
