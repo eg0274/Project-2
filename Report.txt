@@ -1,0 +1,28 @@
+Erika Gonzales
+Dr. Lam
+TECM 5191
+October 27, 2014
+Project 2 Paper
+
+The data that I chose to work with was all of my mariachi sheet music from the years 2006-2013. I chose to only catalogue my physical copies of music because as a mariachi you are expected to pull out music by ear and you don’t write those out. There are a total of 45 entries separated into six categories as follows:
+1.	Song Title
+2.	Genre
+3.	Transcribed
+4.	Key Signature
+5.	Time Signature
+6.	Acceptable Events
+I chose these specific categories because these are the most important details of music you must know. However, the further I got into the project I realized that two categories, transcribed and acceptable events, were unnecessary. 
+The audience for this project I thought would be a particular mariachi group, but after interviewing a local mariachi, I realized that this kind of chart would only be useful as a means of organization for an individual who is a professional. There is no way to organize mariachi music that you should know because it varies by region. Therefore the end audience for this project is me. The only group that a chart like this would work for are school run groups such as San Antonio’s Southwest High School Mariachi Los Dragones. This would work for a school group because as students they are not at a professional performance level where this information is expected. Therefore, I would high recommend this way of organizing a student’s repertoire, but not a professional. 
+The first category is the Song Title. It is important to start off with title because the more you familiarize yourself with the music, the more information you will be able to pull from just the title. The following category is genre. Within mariachi there are at minimum 8 different genres, each with their own sub-genres. For example, there is the genre of the Ranchera which has the following subgenres:
+1.	Valseada (which mirrors a Waltz feel)
+2.	Lenta (which is very smooth and slow)
+3.	Bolero (similar to a ballad)
+4.	Polka 
+5.	Huapango
+The following category is transcribed. In a personal categorization of sheet music, this piece of information is not very important because chances are the group you are performing with only uses music that they have personally written out. This cateogory is necessary if you play with multiple groups because each groups puts their own flare to the music that either changes the ending, chord rotations or transitions, etc. This category is also necessary for school groups because the director will buy sheet music from transcribers so the students may see five different versions of the same song. It is important to distinguish the differences because it builds the ability to transpose on the spot. The following categories are key signature and time signature. These two categories give the basic information needed to play a song without sheet music. Once, at a gig, the group called out a song that I didn’t know how to play. If you know key signature and time signature, you are then able to pull out the patterns and follow the guitarron player. Acceptable events category is not necessary for professional mariachis because it is common knowledge to not play Las Mañanitas, a song celebrating birthdays, at a funeral. For students who are still learning, this category will help them to start building the ability to distinguish what is acceptable at certain events.
+
+The hardest part of the project for me was the XSLT stylesheet. I used the template that was provided to us in GitHub, but for some reason I kept getting errors that would not allow my information to be displayed. At one point, my file even said NULL in NotePad++. I redid the XSLT file four times and I even hand typed the XSLT twice before I decided to go to WC3Schools website to pinpoint exactly what I was misunderstanding. I went through their tutorials and I was completing them just fine. So in one their examples, I took out their information and inputted mine, and the chart displayed. Therefore I chose to use one of W3CSchools templates. However, when I saved it and dragged to display it on Firefox, it would not display. I put this code through a validator and fixed what was wrong. However when I tried to display it again, I could not get it to show up. I kept getting the error, “No style component”. So I saved the templates that you had done on Github and tried displaying those on Firefox, but I kept getting the same errors. Therefore, I believe that there may be something with my Firefox settings or it’s a simple error that I just cannot see. I wanted to stop by your office last Thursday, but I had to be taken to the emergency room back in San Antonio. Also, I am the type of person that I want to try and figure it out on my own. If others who are at the same level as I am could do it, then there is no reason that I can’t do it as well. Some may call this being stubborn, but I call it determined. 
+
+This project was definitely frustrating and challenging. Even though I did not accomplish what I set out to do, I did learn a lot. I spoke to any and everyone who asked about how I was doing in graduate school and advocated the need to be able to complete a project like this. I spoke to scientists who would benefit from these types of files. I even gave specific examples of data that organized this way. Everyone was interested in learning how to do this so I recommended the W3Cschools website. 
+
+
