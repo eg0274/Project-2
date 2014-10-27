@@ -1,0 +1,689 @@
+<!DOCTYPE css>
+<css>
+<head>
+<title>
+	<h1>Repatiore</h1>
+</title>
+<style>
+table, th, td {
+	border: 2px solid black;
+	
+}
+h1 {
+	background-color: #6495ed;
+	color:white;
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 24px;
+
+
+}
+
+p {
+	background-color: #e0ffff;
+}
+
+div {
+	background-color: #b0c4de;
+}
+
+ul.a {
+    list-style-type: circle;
+}
+
+
+</style>
+</head>
+<body>
+
+
+<table>
+<div>
+<p>
+	<tr>
+		<th>Song Title</th>
+		<th>Genre</th>
+		<th>Transcribed</th>
+		<th>Key Signature</th>
+		<th>Time Signature</th>
+		<th>Acceptable Events</th>
+	</tr>
+	<tr>
+		<td>Gema</td>
+		<td>Bolero</td>
+		<td>Guicho Cisneros</td>
+		<td>G Major</td>
+		<td>4/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Weddings</li>
+				<li>Birthdays</li>
+				<li>Funerals</li>
+			</ul>
+		</td>
+	<tr>
+		<td>La Negra</td>
+		<td>Son</td>
+		<td>DC</td>
+		<td>
+			<ul class="a">
+
+				<li>G Major</li>
+				<li>F Major</li>
+			</ul>
+		</td>
+		<td>3/4</td>
+		<td>
+			<ul class="a">
+
+				<li>Quinceneras</li>
+				<li>Weddings</li>
+				<li>Birthdays</li>
+				<li>Celebrations</li>
+			</ul>
+		</td>
+	</tr>
+</p>
+	<tr>
+		<td>El Rey</td>
+		<td>Ranchera Valseada</td>
+		<td>DC</td>
+		<td>F Major</td>
+		<td>3/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Weddings</li>
+				<li>Birthdays</li>
+				<li>Celebrations</li>
+			</ul>
+		</td>
+	</tr>
+<p>
+	<tr>
+		<td>La Malaguena</td>
+		<td>Huapango</td>
+		<td>Vargas</td>
+		<td>E Minor</td>
+		<td>3/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Weddings</li>
+				<li>Birthdays</li>
+				<li>Celebrations</li>
+			</ul>
+
+		</td>
+	</tr>
+</p>	
+	<tr>
+		<td>Por Fin</td>
+		<td>Bolero Ranchera</td>
+		<td>JBO</td>
+		<td>G Major</td>
+		<td>4/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Weddings</li>
+				<li>Birthdays</li>
+				<li>Celebrations</li>
+			</ul>
+		</td>
+	</tr>
+<p>	
+	<tr>
+		<td>Espana Cani</td>
+		<td>Paso Doble</td>
+		<td>Pascual Marquina</td>
+		<td>
+			<ul class="a">
+				<li>G Major</li>
+				<li>E Minor</li>
+			</ul>
+		</td>
+		<td>2/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Weddings</li>
+				<li>Birthdays</li>
+				<li>Celebrations</li>
+				<li>Cultural Holidays</li>
+			</ul>
+		</td>
+	</tr>
+</p>	
+	<tr>
+		<td>No Volvere</td>
+		<td>Ranchera Valseada</td>
+		<td>JBO</td>
+		<td>G Major</td>
+		<td> 4/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Celebrations</li>
+				<li>As Requested</li>
+			</ul>
+		</td>
+	</tr>
+<p>	
+	<tr>
+		<td>Carino</td>
+		<td>Bolero Ranchera</td>
+		<td>JBO</td>
+		<td>G Major</td>
+		<td>4/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Weddings</li>
+				<li>Celebrations</li>
+			</ul>
+		</td>
+	</tr>
+</p>	
+	<tr>
+		<td>Tu Solo Tu</td>
+		<td> Ranchera Valseada</td>
+		<td>JBO</td>
+		<td>Key of G Major</td>
+		<td>3/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Weddings</li>
+				<li>Celebrations</li>
+				<li>As Requested</li>
+			</ul>
+		</td>
+	</tr>
+<p>	
+	<tr>
+		<td>El Buey</td>
+		<td>Danza</td>
+		<td>JBO</td>
+		<td>D Major</td>
+		<td> 2/4</td>
+		<td> 
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Weddings</li>
+				<li>Celebrations</li>
+				<li>Cultural Holidays<li>
+			</ul>
+		</td>
+	</tr>
+</p>	
+	<tr>
+		<td>Amor Eterno</td>
+		<td>Bolero</td>
+		<td>Jaime Vela</td>
+		<td>G Major</td>
+		<td>4/4</td>
+		<td>
+			<ul class="a">
+				<li>Funerals</li>
+				<li>As Requested</li>
+			</ul>
+		</td>
+	</tr>
+<p>	
+	<tr>
+		<td>La Bikina</td>
+		<td>Jaropo Ranchera</td>
+		<td>JBO</td>
+		<td>G Major</td>
+		<td>3/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Weddings<li>
+				<li>Cultural Holidays</li>
+			</ul>
+		</td>
+	</tr>
+</p>	
+	<tr>
+		<td>Volver Volver</td>
+		<td>Ranchera Lenta</td>
+		<td>JBO</td>
+		<td>
+			<ul class="a">
+				<li>A Major</li>
+				<li>G Major</li>
+			</ul>
+		</td>
+		<td>4/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Celebrations</li>
+				<li>As Requested</li>
+			</ul>
+		</td>
+	</tr>
+<p>	
+	<tr>
+		<td>El Carretero</td>
+		<td>Son Jalisceinse</td>
+		<td>JBO</td>
+		<td>G Major</td>
+		<td>3/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Weddings</li>
+				<li>Celebrations</li>
+			</ul>
+		</td>
+	</tr>
+</p>	
+	<tr>
+		<td>Jarocho I</td>
+		<td>Popurri Jarocho</td>
+		<td>Jesus Chuy Guzman</td>
+		<td>
+			<ul class="a">
+				<li>El Jarabe Loco Key of D Major</li>
+				<li>El Siquisiri Key of C Natural</li>
+				<li>El Querrerque Key of D Major</li>
+				<li>El Cascabel Key of A Minor</li>
+			</ul>
+		</td>
+		<td>
+			<ul class="a">
+				<li>El Jarabe Loco 3/4</li>
+				<li>El Siquisiri  4/4</li>
+				<li>El Querrerque 4/4</li>
+				<li>El Cascabel 4/4</li>
+			</ul>
+		</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Celebrations</li>
+				<li>Competitions</li>
+			</ul>
+		</td>
+	</tr>
+<p>	
+	<tr>
+		<td>El Becerro</td>
+		<td>Son</td>
+		<td>William Faulkner</td>
+		<td>D Minor</td>
+		<td>3/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Weddings</li>
+				<li>Celebrations</li>
+			</ul>
+		</td>
+	</tr>
+</p>	
+	<tr>
+		<td>Una Chiquilla Soy</td>
+		<td>Bolero Ranchera</td>
+		<td>Humberto Estrada</td>
+		<td>D Minor</td>
+		<td>4/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Celebrations</li>
+				<li>Competitions</li>
+			</ul>
+		</td>
+	</tr>
+<p>	
+	<tr>
+		<td>Los Pollitos</td>
+		<td>Popurri Jarocho</td>
+		<td>Jesus Chuy Guzman</td>
+		<td>
+			<ul class="a">
+				<li>El Pollito Key of D Minor</li>
+				<li>Ay Namanama Key of C</li>
+				<li>El Cascabel Key of A Minor</li>
+			</ul>
+		</td>
+		<td>
+			<ul class="a">
+				<li>El Pollito 6/8</li>
+				<li>Ay Namanama 6/8</li>
+				<li>El Cascabel 6/8 </li>
+			</ul>
+		</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Weddings</li>
+				<li>Birthdays</li>
+				<li>Celebrations</li>
+				<li>Competitions<li>
+			</ul>
+		</td>
+	</tr>
+</p>	
+	<tr>
+		<td>Las Alazanes</td>
+		<td>Son Jalisceinse</td>
+		<td> GRM</td>
+		<td> G Major</td>
+		<td>3/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Weddings</li>
+				<li>Celebrations</li>
+			</ul>
+		</td>
+	</tr>
+<p>	
+	<tr>
+		<td>El Siquisiri</td>
+		<td>Sone Veracruzano</td>
+		<td>Jesus Chuy Guzman</td>
+		<td>C Major</td>
+		<td>3/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Weddings</li>
+				<li>Celebrations</li>
+			</ul>
+		</td>
+	</tr>
+</p>	
+	<tr>
+		<td>El Caporal</td>
+		<td>Sone Veracruzano</td>
+		<td>Tenampa</td>
+		<td>A Major</td>
+		<td>3/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Weddings</li>
+				<li>Celebrations</li>
+				<li>Competitions</li>
+			</ul>
+		</td>
+	</tr>
+<p>	
+	<tr>
+		<td>El Gavilancillo</td>
+		<td>Son Jalisceinse</td>
+		<td>DC</td>
+		<td>E Major</td>
+		<td>3/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Weddings</li>
+				<li>Celebrations</li>
+				<li>Competitions<li>
+			</ul>
+		</td>
+	</tr>
+</p>	
+	<tr>
+		<td>El Fiesta Del Mariachi</td>
+		<td>Son</td>
+		<td>GRM</td>
+		<td>C Major</td>
+		<td>3/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Weddings</li>
+				<li>Celebrations</li>
+				<li>Competitions</li>
+			</ul>
+		</td>
+	</tr>
+<p>	
+	<tr>
+		<td>El Coco Loco</td>
+		<td>Son</td>
+		<td>GRM</td>
+		<td>C MAjor</td>
+		<td>3/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Weddings</li>
+				<li>Celebrations</li>
+				<li>Competitions</li>
+			</ul>
+		</td>
+	</tr>
+</p>	
+	<tr>
+		<td>Popurri Aida Cuevas</td>
+		<td>Popurri</td>
+		<td>Vargas</td>
+		<td>
+			<ul class="a">
+				<li>Te Va A Quedar Con Las Ganas Key of C Major</li>
+				<li>Yo Creo Que Es El Tiempo Key of E Major</li>
+				<li>Que Buena Suerte Key of D Minor</li>
+				<li>Te Doy Las Gracias Key of E Major</li>
+			</ul>
+		</td>
+		<td>
+			<ul class="a">
+				<li>Te Va A Quedar Con Las Ganas 3/4</li>
+				<li>Yo Creo Que Es El Tiempo 2/4</li>
+				<li>Que Buena Suerte 4/4</li>
+				<li>Te Doy Las Gracias 3/4</li>
+			</ul>
+		</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Weddings</li>
+				<li>Celebrations</li>
+				<li>Competitions</li>
+			</ul>
+		</td>
+	</tr>
+<p>	
+	<tr>
+		<td>Fallaste Corazon</td>
+		<td>Ranchera Lenta</td>
+		<td>Cuco Sanchez</td>
+		<td>Key of D Major</td>
+		<td>4/4</td>
+		<td>
+			<ul class="a">
+				<li>Birthdays</li>
+				<li>Weddings</li>
+				<li>Celebrations</li>
+				<li>As Requested</li>
+			</ul>
+		</td>
+	</tr>
+</p>	
+	<tr>
+		<td>Danza De Los Viejitos</td>
+		<td>Son Michoacan </td>
+		<td>GRM</td>
+		<td>Key of D Major</td>
+		<td>Varied</td>
+		<td>
+			<ul class="a">
+				<li>Celebrations</li>
+				<li>Cultural Holidays</li>
+			</ul>
+		</td>
+	</tr>
+<p>	
+	<tr>
+		<td>Mi Llano Grande</td>
+		<td>Son Jalisceinse</td>
+		<td>GRM</td>
+		<td>Key of D Major</td>
+		<td>3/4</td>
+		<td>
+			<ul class="a">
+				<li>Birthdays</li>
+				<li>Celebrations</li>
+				<li>Weddings</li>
+				<li>As Requested</li>
+			</ul>
+		</td>
+	</tr>
+</p>	
+	<tr>
+		<td>El Rey de La Huasteca</td>
+		<td>Huapango Huasteco</td>
+		<td>Jose Hernandez</td>
+		<td>Key of D Minor</td>
+		<td>3/4</td>
+		<td>
+			<ul class="a">
+				<li>Birthdays</li>
+				<li>Celebrations</li>
+				<li>Competitions</li>
+				<li>As Requested</li>
+			</ul>
+	</tr>
+<p>	
+	<tr>
+		<td>Popurri Huapangos Huastecos</td>
+		<td>Popurri</td>
+		<td>Jose Martinez Barajas</td>
+		<td>
+			<ul class="a">
+				<li>Las Tres Huastecas Key of A Major</li>
+				<li>Soldado de Levita Key of G Major</li>
+				<li>La Cecilia Key of G Major</li>
+			</ul>
+		</td>
+		<td>
+			<ul class="a">
+				<li> Las Tres Huastecas 3/4</li>
+				<li>Soldado de Levita 3/4 </li>
+				<li>La Cecilia 3/4</li>
+			</ul>
+		</td>
+		<td>	
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li> Competitions</li>
+			</ul>
+		</td>
+	</tr>
+</p>	
+	<tr>
+		<td>Mi Bella Preciousa</td>
+		<td>Joropo</td>
+		<td> Miguel Guzman</td>
+		<td>Key of C</td>
+		<td>3/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Weddings</li>
+				<li>Birthdays</li>
+				<li> Celebrations</li>
+			</ul>
+		</td>
+	</tr>
+</p>	
+	
+	<tr>
+		<td> El Mariachi Loco</td>
+		<td>Danza</td>
+		<td>DC</td>
+		<td>Key of G Major</td>
+		<td>3/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Weddings</li>
+				<li>Celebrations</li>
+				<li> Cultural Holidays</li>
+			</ul>
+		</td>
+	</tr>
+<p>	
+	<tr>
+		<td>Los Cuatro Gallos</td>
+		<td>Varied</td>
+		<td>GRM</td>
+		<td>Key of G Major</td>
+		<td>3/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Weddings</li>
+				<li>Celebrations</li>
+				<li>Competitions</li>
+			</ul>
+		</td>
+	</tr>
+</p>	
+	<tr>
+		<td>Las Chiapanecas</td>
+		<td>Ranchera Valseada</td>
+		<td>DC</td>
+		<td>Key of D Major</td>
+		<td>3/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Weddings</li>
+				<li>Celebrations</li>
+				<li>Cultural Holidays</li>
+			</ul>
+		</td>
+	</tr>
+<p>	
+	<tr>
+		<td>La Basurita</td>
+		<td>Polka</td>
+		<td>GRM</td>
+		<td>Key of A Major</td>
+		<td>2/4</td>
+		<td>
+			<ul class="a">
+				<li>Quinceneras</li>
+				<li>Birthdays</li>
+				<li>Weddings<li>
+				<li>Celebrations</li>
+			</ul>
+		</td>
+	</tr>
+</p>	
+				
+ </div> 
+</table>
+
+</body>
+</css>
